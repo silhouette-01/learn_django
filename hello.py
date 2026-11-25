@@ -1,1 +1,2 @@
-pront("hello world")
+name = input("name: ")
+print(f"Hello {name}.")
